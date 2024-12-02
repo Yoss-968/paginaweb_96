@@ -1,0 +1,23 @@
+body{
+background-color: rgb(153, 127, 255);
+background-image: url("../hkyozz3.jpg");
+background-size: cover;
+color:blueviolet;
+}
+.logo{
+    width: 100px;
+    border-radius: ; 50% 
+}
+.inicio{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.inicio h1{
+    font-size: 270%;
+    font-weight: bold;
+}
+.Diseño{
+    width: 80px;
+    border-radius:30 ;
+}
